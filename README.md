@@ -13,7 +13,7 @@
 - 💯 Current CGPA: **9.35/10**
 - 💻 Passionate about **Software Development, AI, and Problem Solving**
 - 🌱 Currently learning **MERN Stack** and **Backend Development**
-- 🧩 Solved **95+ DSA Problems** on LeetCode
+- 🧩 Solved **100+ DSA Problems** on LeetCode
 - 🚀 Building real-world projects using **Python, Flask, FAISS, and LLMs**
 - 🎯 Looking for **Software Engineering & Full-Stack Development Internship Opportunities**
 
