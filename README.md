@@ -71,7 +71,7 @@
 
 ## 🏆 Achievements
 
-- 🎯 Solved **95+ DSA Problems** on LeetCode
+- 🎯 Solved **100+ DSA Problems** on LeetCode
 - 🎓 Maintaining **9.35 CGPA** in B.E. AIML
 - 💻 Participant – **Smart India Hackathon**
 - 💻 Participant – **Adobe India Hackathon**
